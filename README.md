@@ -1,0 +1,2 @@
+# Secure Client-Server Model
+ This project demonstrates a secure communication system between a client and a server using Python. It features the Diffie-Hellman key exchange to establish a shared secret for encrypting messages. Additionally, it handles secure user authentication with credentials stored in a hashed and salted format. The system ensures that messages exchanged between the client and server remain confidential, making it ideal for secure messaging applications.
